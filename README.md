@@ -1,4 +1,4 @@
-# 👨‍💻 ITU Software - Perfil Académico
+# ITU Software - Perfil Académico
 
 - **Nombre:** Lucas Gabriel
 - **Apellido:** Marasco
@@ -6,7 +6,7 @@
 
 ---
 
-# 📚 ÍNDICE DE MATERIAS Y REPOSITORIOS
+# ÍNDICE DE MATERIAS Y REPOSITORIOS
 
 ## 1. Programación Orientada a Objetos
 - **Módulo 1 Clases y Objetos **
