@@ -15,9 +15,9 @@
 - **Módulo 3 Manejo de Excepciones**
 
 ## 2. Diseño de Software
-- **Ejercicios Singleton**
-- **Ejercicios Factory Method**
-- **Ejercicios Observer**
+- **Modulo 1 Ejercicios Singleton**
+- **Modulo 2 Ejercicios Factory Method**
+- **Modulo 3 Ejercicios Observer**
  
 ## 3. Computación en la Nube
 - **Módulo 1**
