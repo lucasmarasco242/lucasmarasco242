@@ -12,6 +12,8 @@
 - **Módulo 1 Clases y Objetos**
   - [Ejercicio 1: Modelado básico e instanciación (Persona)](https://github.com/lucasmarasco242/POO_Unidad1_Ejercicio1)
   - [Ejercicio 2: Parametrización con Constructores (Mascota)](https://github.com/lucasmarasco242/POO_Unidad1_Ejercicio2)
+  - [Ejercicio 3: Transición de Estados (Auto)](https://github.com/lucasmarasco242/POO_Unida1_Ejercicio3)
+  - 
 - **Módulo 2 Herencia y Polimorfismo**
 - **Módulo 3 Manejo de Excepciones**
 
