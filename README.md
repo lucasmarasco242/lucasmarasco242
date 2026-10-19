@@ -9,7 +9,7 @@
 # ÍNDICE DE MATERIAS Y REPOSITORIOS
 
 ## 1. Programación Orientada a Objetos
-- **Módulo 1 Clases y Objetos **
+- **Módulo 1 Clases y Objetos**
   - [Ejercicio 1: Modelado básico e instanciación (Persona)](https://github.com/lucasmarasco242/POO_Unidad1_Ejercicio1)
 - **Módulo 2 Herencia y Polimorfismo**
 - **Módulo 3 Manejo de Excepciones**
