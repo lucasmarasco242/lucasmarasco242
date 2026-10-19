@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👨‍💻 ITU Software - Perfil Académico
 
-<!--
-**lucasmarasco242/lucasmarasco242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Nombre:** Lucas Gabriel
+- **Apellido:** Marasco
+- **Carrera:** Tecnicatura Universitaria en Desarrollo de Software (ITU UNCUYO)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📚 ÍNDICE DE MATERIAS Y REPOSITORIOS
+
+## 1. Programación Orientada a Objetos
+- **Módulo 1 Clases y Objetos **
+  - [Ejercicio 1: Modelado básico e instanciación (Persona)](https://github.com/lucasmarasco242/POO_Unidad1_Ejercicio1)
+- **Módulo 2 Herencia y Polimorfismo**
+- **Módulo 3 Manejo de Excepciones**
+
+## 2. Diseño de Software
+- **Ejercicios Singleton**
+- **Ejercicios Factory Method**
+- **Ejercicios Observer**
+ 
+## 3. Computación en la Nube
+- **Módulo 1**
+- **Módulo 2**
+- **Módulo 3**
