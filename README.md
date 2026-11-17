@@ -24,15 +24,12 @@
 - [Ejercicio 1 - Configuración inicial de la aplicación](https://github.com/lucasmarasco242/DisenoSofware_Singelton_Ejercicio1)
 - [Ejercicio 2 - Gestor de Conexiones a Base de Datos Simple](https://github.com/lucasmarasco242/Dise-oSofware_Singelton_Ejercicio2)
 - [Ejercicio 3 - Registro de Eventos (Logger) Básico](https://github.com/lucasmarasco242/Dise-oSofware_Singelton_Ejercicio3)
-
 - [Ejercicio 4 - Servicio de Caché en Memoria](https://github.com/lucasmarasco242/DisenoSofware_Singelton_Ejercicio4)
 - [Ejercicio 5 - Administrador de Dispositivos de Hardware Únicos]([https://github.com/lucasmarasco242/Dise-oSofware_Singelton_Ejercicio2](https://github.com/lucasmarasco242/Dise-oSofware_Singelton_Ejercicio5)
 - [Ejercicio 6 - Gestor de Temas y Apariencia Visual](https://github.com/lucasmarasco242/Dise-oSofware_Singelton_Ejercicio6)
-
 - [Ejercicio 7 - Cola de Impresión Centralizada](https://github.com/lucasmarasco242/Dise-oSofware_Singelton_Ejercicio7)
 - [Ejercicio 8 - Refactorización hacia Inyección de Dependencias](https://github.com/lucasmarasco242/Dise-oSofware_Singelton_Ejercicio8)
 - [Ejercicio 9 - Sistema de Monitoreo de Métricas de Rendimiento](https://github.com/lucasmarasco242/Dise-oSofware_Singelton_Ejercicio9)
-
 - [Ejercicio 10 - Contenedor de Estado Global y Auditoría de Seguridad](https://github.com/lucasmarasco242/Dise-oSofware_Singelton_Ejercicio10)
 
 - **Modulo 2 Ejercicios Factory Method**
