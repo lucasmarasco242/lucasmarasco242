@@ -45,10 +45,49 @@
 - [Ejercicio 20 - Administrador Concurrente de Turnos de Consultorio](https://github.com/lucasmarasco242/Dise-oSofware_Singelton_Ejercicio20)
 
 - **Modulo 2 Ejercicios Factory Method**
-
-- 
+- [Ejercicio 1 - Generador Básico de Documentos de Texto](https://github.com/lucasmarasco242/Dise-oSofware_FactoryMethod_Ejercicio1)
+- [Ejercicio 2 - Creador de Conexiones a Motores de Base de Datos](https://github.com/lucasmarasco242/Dise-oSofware_FactoryMethod_Ejercicio2)
+- [Ejercicio 3 - Sistema de Notificaciones Multiplataforma Básico](https://github.com/lucasmarasco242/Dise-oSofware_FactoryMethod_Ejercicio3)
+- [Ejercicio 4 - Fábrica de Exportadores de Reportes Financieros](https://github.com/lucasmarasco242/Dise-oSofware_FactoryMethod_Ejercicio4)
+- [Ejercicio 5 - Generador de Personajes para Videojuego de Rol](https://github.com/lucasmarasco242/Dise-oSofware_FactoryMethod_Ejercicio5)
+- [Ejercicio 6 - Factoría de Métodos de Pago para Comercio Electrónico](https://github.com/lucasmarasco242/Dise-oSofware_FactoryMethod_Ejercicio6)
+- [Ejercicio 7 - Generador de Elementos de Interfaz Gráfica Adaptativa](https://github.com/lucasmarasco242/Dise-oSofware_FactoryMethod_Ejercicio7)
+- [Ejercicio 8 - Refactorización de Código Acoplado hacia Factory Method](https://github.com/lucasmarasco242/Dise-oSofware_FactoryMethod_Ejercicio8)
+- [Ejercicio 9 - Fábrica Avanzada de Conectores IoT para Telemetría](https://github.com/lucasmarasco242/Dise-oSofware_FactoryMethod_Ejercicio9)
+- [Ejercicio 10 - Sistema Empresarial de Emisión de Comprobantes Fiscales](https://github.com/lucasmarasco242/Dise-oSofware_FactoryMethod_Ejercicio10)
+- [Ejercicio 11 - Generador Básico de Perfiles de Usuario](https://github.com/lucasmarasco242/Dise-oSofware_FactoryMethod_Ejercicio11)
+- [Ejercicio 12 - Creador de Conexiones a Repositorios de Archivos](https://github.com/lucasmarasco242/Dise-oSofware_FactoryMethod_Ejercicio12)
+- [Ejercicio 13 - Sistema de Alertas por Canal de Texto](https://github.com/lucasmarasco242/Dise-oSofware_FactoryMethod_Ejercicio13)
+- [Ejercicio 14 - Fábrica de Generadores de Facturas Comerciales](https://github.com/lucasmarasco242/Dise-oSofware_FactoryMethod_Ejercicio14)
+- [Ejercicio 15 - Generador de Enemigos para Videojuego de Acción](https://github.com/lucasmarasco242/Dise-oSofware_FactoryMethod_Ejercicio15)
+- [Ejercicio 16 - Factoría de Métodos de Envío Logístico](https://github.com/lucasmarasco242/Dise-oSofware_FactoryMethod_Ejercicio16)
+- [Ejercicio 17 - Generador de Componentes de Interfaz Gráfica Minimalista](https://github.com/lucasmarasco242/Dise-oSofware_FactoryMethod_Ejercicio17)
+- [Ejercicio 18 - Refactorización de Código Condicional hacia Factory Method](https://github.com/lucasmarasco242/Dise-oSofware_FactoryMethod_Ejercicio18)
+- [Ejercicio 19 - Fábrica Avanzada de Sensores Ambientales para IoT](https://github.com/lucasmarasco242/Dise-oSofware_FactoryMethod_Ejercicio19)
+- [Ejercicio 20 - Sistema Empresarial de Emisión de Títulos de Propiedad](https://github.com/lucasmarasco242/Dise-oSofware_FactoryMethod_Ejercicio20)
+  
 - **Modulo 3 Ejercicios Observer**
- 
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- 
 ## 3. Computación en la Nube
 - **Módulo 1**
 - **Módulo 2**
