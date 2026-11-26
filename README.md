@@ -85,8 +85,8 @@
 - [Ejercicio 16 - Panel Financiero de Variación de Divisas](https://github.com/lucasmarasco242/Dise-oSofware_Observer_Ejercicio16)
 - [Ejercicio 17 - Sistema de Suscripción a Canales de Video Streaming](https://github.com/lucasmarasco242/Dise-oSofware_Observer_Ejercicio17)
 - [Ejercicio 18 - Refactorización de Código Acoplado hacia Bus de Eventos](https://github.com/lucasmarasco242/Dise-oSofware_Observer_Ejercicio18)
-- []()
-- []()
+- [Ejercicio 19 - Motor Asíncrono de Eventos para Monitoreo de Servidores](https://github.com/lucasmarasco242/Dise-oSofware_Observer_Ejercicio19)
+- [Ejercicio 20 - Sistema Empresarial de Cumplimiento Normativo y Auditoría de Riesgos](https://github.com/lucasmarasco242/Dise-oSofware_Observer_Ejercicio20)
 - 
 ## 3. Computación en la Nube
 - **Módulo 1**
